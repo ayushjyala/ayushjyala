@@ -53,8 +53,6 @@
 
 ## 🌋 About Me
 
-<img align="right" width="260" src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"/>
-
 I'm **Ayush Jyala**, a B.Tech CSE student (3rd Semester) at **Newton School of Technology × Rishihood University**, India. I build things that work — and try to make them beautiful while I'm at it.
 
 ```yaml
@@ -71,8 +69,6 @@ mindset: Open Source Developer
 - 🎨 A firm believer that **UI/UX matters** as much as the code underneath
 - 📚 Continuous learner — always shipping, always studying
 
-<br clear="right"/>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
@@ -83,7 +79,7 @@ mindset: Open Source Developer
 
 | Status | Objective |
 |:---:|:---|
-| 🔥 | Building **CF SNIPER** |
+| 🔥 | Building real-life connected projects like this |
 | 🔥 | Improving my Codeforces Rating |
 | 🔥 | Learning AI, deeply and deliberately |
 | 🔥 | Contributing to Open Source projects |
@@ -101,27 +97,29 @@ mindset: Open Source Developer
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=cpp,java,py,js,ts,c&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cpp,py,js&theme=dark"/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,redux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,nextjs,tailwind&theme=dark"/>
 
 **Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=nodejs,nextjs,fastapi,flask,django&theme=dark"/>
 
 **Database**
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres&theme=dark"/>
 
-**Cloud & DevOps**
+**Cloud**
 
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel,githubactions&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=vercel,netlify&theme=dark"/>
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma&theme=dark"/> &nbsp;
+<img src="https://img.shields.io/badge/-Antigravity-0D0D0D?style=for-the-badge&logoColor=FF4500"/>
+<img src="https://img.shields.io/badge/-Canva-0D0D0D?style=for-the-badge&logo=canva&logoColor=FF6347"/>
 
 </div>
 
@@ -192,24 +190,16 @@ mindset: Open Source Developer
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/codeforces.svg" width="40" style="filter: invert(45%) sepia(90%) saturate(2000%) hue-rotate(0deg);"/><br/>
-<b>Codeforces</b><br/>
-<code>1200+</code>
+<img src="https://img.shields.io/badge/Codeforces-1200%2B-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=FF4500"/>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/leetcode.svg" width="40" style="filter: invert(45%) sepia(90%) saturate(2000%) hue-rotate(0deg);"/><br/>
-<b>LeetCode</b><br/>
-<code>1350+</code>
+<img src="https://img.shields.io/badge/LeetCode-1350%2B-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FF6347"/>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/codechef.svg" width="40" style="filter: invert(45%) sepia(90%) saturate(2000%) hue-rotate(0deg);"/><br/>
-<b>CodeChef</b><br/>
-<code>1500+</code>
+<img src="https://img.shields.io/badge/CodeChef-1500%2B-0D0D0D?style=for-the-badge&logo=codechef&logoColor=FF4500"/>
 </td>
 <td align="center" width="25%">
-<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons@develop/icons/atcoder.svg" width="40" style="filter: invert(45%) sepia(90%) saturate(2000%) hue-rotate(0deg);"/><br/>
-<b>AtCoder</b><br/>
-<code>0</code>
+<img src="https://img.shields.io/badge/AtCoder-0-0D0D0D?style=for-the-badge&logo=atcoder&logoColor=FF6347"/>
 </td>
 </tr>
 </table>
@@ -246,7 +236,7 @@ mindset: Open Source Developer
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=ayushjyala&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=ayushjyala&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="90%"/>
 
 <br/><br/>
 
@@ -376,12 +366,12 @@ Terminal:  [ placeholder ]
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
-## 😂 Coding Meme
+## 😂 Coding Joke of the Day
 
 <div align="center">
 
-<!-- Refresh this link occasionally for a new meme -->
-<img src="https://www.commitstrip.com/wp-content/uploads/2016/09/Strip-Que-fait-un-developpeur-650-finalenglish.jpg" width="65%"/>
+<!-- Live-generated card, refreshes automatically on every profile view -->
+<img src="https://readme-jokes.vercel.app/api" width="65%"/>
 
 </div>
 
