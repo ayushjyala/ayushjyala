@@ -79,7 +79,7 @@ mindset: Open Source Developer
 
 | Status | Objective |
 |:---:|:---|
-| 🔥 | Building real-life connected projects |
+| 🔥 | Building real-life connected projects like this |
 | 🔥 | Improving my Codeforces Rating |
 | 🔥 | Learning AI, deeply and deliberately |
 | 🔥 | Contributing to Open Source projects |
