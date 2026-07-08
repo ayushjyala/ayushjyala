@@ -58,40 +58,38 @@ I’m **Ayush Jyala**, a B.Tech CSE student focused on building full-stack produ
 
 ## 🔱 Featured Projects
 
-- Trip Sync — AI-powered travel planning platform
-- CF Sniper — Competitive programming utility project
-- Portfolio — Personal developer portfolio
+### CF Sniper
+A smart and stylish project built for competitive programmers who want a stronger daily practice routine. Think of it as a gym trainer for your Codeforces journey—helping you stay consistent, sharpen your problem-solving rhythm, and turn practice into a powerful habit.
 
-## 🗡️ Competitive Programming
+- Tech Stack: Python, HTML, CSS
+- Repository: https://github.com/ayushjyala/CF-SNIPER-.git
+- Live Demo: https://cf-sniper.vercel.app/
 
-- Codeforces: 1200+
-- LeetCode: 1350+
-- CodeChef: 1500+
-- AtCoder: Learning stage
+### Portfolio
+My Portfolio — Ayush Jyala
+A modern personal portfolio crafted to showcase my skills, projects, and personality as a developer. It combines clean design with smooth presentation to leave a strong impression on visitors and recruiters.
+
+- Tech Stack: HTML, CSS, JavaScript, Node.js
+- Repository: https://github.com/ayushjyala/PORTFOLIO-DEMO.git
+- Live Demo: https://portfolio-demo-one-omega.vercel.app/
+
+## 🏆 Achievements
+
+- Pupil rating in Codeforces
+- 3-star highest in CodeChef
+- 150+ questions in LeetCode
+
+## 🏅 Competitive Programming
+
+- Codeforces: Pupil rating
+- LeetCode: 150+ questions solved
+- CodeChef: Highest rating of 3 stars
+- AtCoder: Continuously improving
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayushjyala&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF4500&icon_color=FF6347&text_color=FFDAB9&ring_color=FF4500&count_private=true" width="49%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjyala&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4500&text_color=FFDAB9&langs_count=8" width="42%" alt="Top languages" />
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=ayushjyala&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF6347&currStreakLabel=FFDAB9&sideNums=FFDAB9&currStreakNum=FF4500&sideLabels=FF6347&dates=8B4513" width="70%" alt="GitHub streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushjyala&bg_color=0D0D0D&color=FF6347&line=FF4500&point=FFDAB9&area=true&hide_border=true" width="90%" alt="Contribution graph" />
+GitHub insights are currently being refreshed. Visit my profile for the latest activity and project updates.
 
 </div>
-
-## 🐍 Snake Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayushjyala/ayushjyala/output/github-contribution-grid-snake-dark.svg" width="90%" alt="Snake contribution graph" />
-
-</div>
-
-> The snake animation will appear after the workflow in [.github/workflows/snake.yml](.github/workflows/snake.yml) runs successfully once.
