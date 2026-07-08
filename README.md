@@ -62,12 +62,12 @@ curiosity: AI Enthusiast
 mindset: Open Source Developer
 ```
 
-- 🧠 Passionate about **problem solving**, **backend systems**, and **clean architecture**
-- ⚔️ Sharpening my blade daily through **competitive programming**
-- 🤖 Diving deep into **Artificial Intelligence**
-- 🌐 Contributing to **Open Source** whenever I can
-- 🎨 A firm believer that **UI/UX matters** as much as the code underneath
-- 📚 Continuous learner — always shipping, always studying
+-  Passionate about **problem solving**, **backend systems**, and **clean architecture**
+-  Sharpening my blade daily through **competitive programming**
+-  Diving deep into **Artificial Intelligence**
+-  Contributing to **Open Source** whenever I can
+-  A firm believer that **UI/UX matters** as much as the code underneath
+-  Continuous learner — always shipping, always studying
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
