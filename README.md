@@ -149,12 +149,12 @@ mindset: Open Source Developer
 
 ### ⚔️ CF Sniper
 
-A smart and stylish project built for competitive programmers who want a stronger daily practice routine. It works like a gym trainer for your Codeforces journey, helping you stay consistent, sharpen your problem-solving rhythm, and turn practice into a powerful habit.
+*`[ description placeholder — fill me in ]`*
 
-`Python` `HTML` `CSS`
+`[ tech stack placeholder ]`
 
-[![Repo](https://img.shields.io/badge/-Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4500)](https://github.com/ayushjyala/CF-SNIPER-.git)
-[![Live](https://img.shields.io/badge/-Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6347)](https://cf-sniper.vercel.app/)
+[![Repo](https://img.shields.io/badge/-Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=808080)](#)
+[![Live](https://img.shields.io/badge/-Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=808080)](#)
 
 </td>
 </tr>
@@ -163,12 +163,12 @@ A smart and stylish project built for competitive programmers who want a stronge
 
 ### 🪐 Portfolio
 
-My Portfolio — Ayush Jyala is a modern personal website designed to showcase my skills, projects, and personality as a developer with a clean and memorable experience.
+*`[ description placeholder — fill me in ]`*
 
-`HTML` `CSS` `JavaScript` `Node.js`
+`[ tech stack placeholder ]`
 
-[![Repo](https://img.shields.io/badge/-Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4500)](https://github.com/ayushjyala/PORTFOLIO-DEMO.git)
-[![Live](https://img.shields.io/badge/-Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6347)](https://portfolio-demo-one-omega.vercel.app/)
+[![Repo](https://img.shields.io/badge/-Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=808080)](#)
+[![Live](https://img.shields.io/badge/-Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=808080)](#)
 
 </td>
 <td width="50%" valign="top">
@@ -190,28 +190,28 @@ My Portfolio — Ayush Jyala is a modern personal website designed to showcase m
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Codeforces-Pupil-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=FF4500"/>
+<img src="https://img.shields.io/badge/Codeforces-1200%2B-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=FF4500"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/LeetCode-150%2B%20Solved-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FF6347"/>
+<img src="https://img.shields.io/badge/LeetCode-1350%2B-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FF6347"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/CodeChef-3%20Stars-0D0D0D?style=for-the-badge&logo=codechef&logoColor=FF4500"/>
+<img src="https://img.shields.io/badge/CodeChef-1500%2B-0D0D0D?style=for-the-badge&logo=codechef&logoColor=FF4500"/>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/AtCoder-Improving-0D0D0D?style=for-the-badge&logo=atcoder&logoColor=FF6347"/>
+<img src="https://img.shields.io/badge/AtCoder-0-0D0D0D?style=for-the-badge&logo=atcoder&logoColor=FF6347"/>
 </td>
 </tr>
 </table>
 
 &nbsp;
 
-| Platform | Highlight |
+| Metric | Value |
 |:---|:---:|
-| 🏆 Codeforces | Pupil rating |
-| 🎖️ LeetCode | 150+ questions solved |
-| 📊 CodeChef | Highest rating of 3 stars |
-| ✅ AtCoder | Continuously improving |
+| 🏆 Highest Rating | `[ placeholder ]` |
+| 🎖️ Badges | `[ placeholder ]` |
+| 📊 Best Contest Rank | `[ placeholder ]` |
+| ✅ Problems Solved | `[ placeholder ]` |
 
 </div>
 
@@ -223,9 +223,35 @@ My Portfolio — Ayush Jyala is a modern personal website designed to showcase m
 
 <div align="center">
 
-GitHub insights are currently being refreshed. Visit my profile for the latest activity and project updates.
+<img src="https://github-readme-stats.vercel.app/api?username=ayushjyala&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=FF4500&icon_color=FF6347&text_color=FFDAB9&ring_color=FF4500&count_private=true" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushjyala&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=FF4500&text_color=FFDAB9&langs_count=8" width="42%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=ayushjyala&hide_border=true&background=0D0D0D&ring=FF4500&fire=FF6347&currStreakLabel=FFDAB9&sideNums=FFDAB9&currStreakNum=FF4500&sideLabels=FF6347&dates=8B4513" width="70%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushjyala&bg_color=0D0D0D&color=FF6347&line=FF4500&point=FFDAB9&area=true&hide_border=true" width="90%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=ayushjyala&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="90%"/>
+
+<br/><br/>
+
+<!--START_SECTION:activity-->
+<!-- 🔥 GitHub Activity Bot placeholder — connect a workflow to populate this -->
+<!--END_SECTION:activity-->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushjyala&theme=dark&hide_border=true" width="0" height="0"/>
+
+<!-- 🐍 Snake eating its own contribution graph — requires a GitHub Action to generate -->
+<img src="https://raw.githubusercontent.com/ayushjyala/ayushjyala/output/github-contribution-grid-snake-dark.svg" width="90%"/>
 
 </div>
+
+> *Snake animation requires the [snake workflow](https://github.com/Platane/snake) to be added to this repo's GitHub Actions to generate the SVG above.*
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
@@ -235,9 +261,11 @@ GitHub insights are currently being refreshed. Visit my profile for the latest a
 
 <div align="center">
 
-- Pupil rating in Codeforces
-- 3-star highest in CodeChef
-- 150+ questions in LeetCode
+| 🔥 | Achievement |
+|:---:|:---|
+| ⬜ | `[ placeholder — add your achievement ]` |
+| ⬜ | `[ placeholder — add your achievement ]` |
+| ⬜ | `[ placeholder — add your achievement ]` |
 
 </div>
 
@@ -289,6 +317,36 @@ Languages: [ placeholder ]
 Browser:   [ placeholder ]
 Terminal:  [ placeholder ]
 ```
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
+
+## 🎧 Now Playing
+
+<div align="center">
+
+<!-- Connect via https://spotify-github-profile.vercel.app to populate this widget -->
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=REPLACE_WITH_SPOTIFY_UID&cover_image=true&theme=default&show_offline=false&background_color=0D0D0D&interchange=false&bar_color=FF4500&bar_color_cover=false" width="60%"/>
+
+</div>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
+</div>
+
+## ⏱️ WakaTime
+
+<div align="center">
+
+<!-- Requires WakaTime README integration: https://github.com/athul/waka-readme -->
+<!--START_SECTION:waka-->
+```
+🔥 Coding activity — connect WakaTime to populate this section
+```
+<!--END_SECTION:waka-->
 
 </div>
 
