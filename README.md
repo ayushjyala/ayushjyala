@@ -2,11 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:FF4500,100:8B0000&height=300&section=header&text=AYUSH%20JYALA&fontSize=70&fontColor=FFDAB9&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20Competitive%20Programmer%20•%20AI%20Enthusiast&descAlignY=55&descSize=20&descColor=FF6347" width="100%"/>
 
-<br/>
 
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF4500&center=true&vCenter=true&width=700&lines=Building+Full+Stack+Applications;Grinding+Competitive+Programming;Learning+AI+Every+Day;Open+Source+Contributor;Always+Building%2C+Always+Learning;Code.+Learn.+Repeat." alt="Typing SVG" />
 
-<br/><br/>
+
 
 <img src="https://img.shields.io/badge/-‎-0D0D0D?style=flat-square&logoColor=FF4500" width="1" height="3"/>
 
@@ -22,7 +21,6 @@
 
 </div>
 
-<br/>
 
 <h3 align="center">🔥 Connect With Me 🔥</h3>
 
@@ -34,7 +32,7 @@
 <a href="mailto:ayushjtech@gmail.com"><img src="https://img.shields.io/badge/-Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=FF6347" /></a>
 <a href="https://www.instagram.com/ayush_jyala/"><img src="https://img.shields.io/badge/-Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF4500" /></a>
 
-<br/>
+
 
 <a href="https://codeforces.com/profile/404PahadiNotFound"><img src="https://img.shields.io/badge/-Codeforces-0D0D0D?style=for-the-badge&logo=codeforces&logoColor=FF6347" /></a>
 <a href="https://leetcode.com/u/ayushjyala/"><img src="https://img.shields.io/badge/-LeetCode-0D0D0D?style=for-the-badge&logo=leetcode&logoColor=FF4500" /></a>
@@ -43,13 +41,13 @@
 
 </div>
 
-<br/>
+
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
-<br/>
+
 
 ## 🌋 About Me
 
