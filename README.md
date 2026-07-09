@@ -239,20 +239,6 @@ GitHub insights are currently being refreshed. Visit my profile for the latest a
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
-## 🏆 Achievements
-
-<div align="center">
-
-- Pupil rating in Codeforces
-- 3 star highest in CodeChef
-- 150+ question in LeetCode
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
-
 ## 🗺️ 2026 Roadmap
 
 ```
@@ -286,65 +272,6 @@ GitHub insights are currently being refreshed. Visit my profile for the latest a
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
 </div>
 
-## 💻 Dev Setup
-
-<div align="center">
-
-```yaml
-OS:        [ placeholder ]
-Editor:    [ placeholder ]
-Languages: [ placeholder ]
-Browser:   [ placeholder ]
-Terminal:  [ placeholder ]
-```
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
-
-## 💬 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
-
-## 😂 Coding Joke of the Day
-
-<div align="center">
-
-<!-- Live-generated card, refreshes automatically on every profile view -->
-<img src="https://readme-jokes.vercel.app/api" width="65%"/>
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
-
-## 🪣 Bucket List
-
-<div align="center">
-
-- [ ] `[ placeholder ]`
-- [ ] `[ placeholder ]`
-- [ ] `[ placeholder ]`
-- [ ] `[ placeholder ]`
-
-</div>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%" height="4px"/>
-</div>
-
-<div align="center">
 
 ### 🔥 Thanks for descending into the volcano, traveler.
 
