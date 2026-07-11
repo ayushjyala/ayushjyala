@@ -149,7 +149,7 @@ mindset: Open Source Developer
 
 Gym Trainer for your Codeforces Competitive Programming journey — a smart and stylish project designed to keep your practice routine strong, focused, and consistent like a real training partner.
 
-Python, HTML, CSS
+`PYTHON` `HTML` `CSS`
 
 [![Repo](https://img.shields.io/badge/-Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4500)](https://github.com/ayushjyala/CF-SNIPER-.git)
 [![Live](https://img.shields.io/badge/-Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6347)](https://cf-sniper.vercel.app/)
@@ -163,7 +163,7 @@ Python, HTML, CSS
 
 My portfolio {Ayush Jyala}
 
-HTML, CSS, JavaScript, Node.js
+`HTML` `CSS` `JavaScript` `Node.js`
 
 [![Repo](https://img.shields.io/badge/-Repository-0D0D0D?style=for-the-badge&logo=github&logoColor=FF4500)](https://github.com/ayushjyala/PORTFOLIO-DEMO.git)
 [![Live](https://img.shields.io/badge/-Live%20Demo-0D0D0D?style=for-the-badge&logo=vercel&logoColor=FF6347)](https://portfolio-demo-one-omega.vercel.app/)
