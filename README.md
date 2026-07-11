@@ -207,7 +207,7 @@ HTML, CSS, JavaScript, Node.js
 | Platform | Status |
 |:---|:---:|
 | 🏆 Codeforces | Pupil rating |
-| 🎖️ LeetCode | 150+ questions solved |
+| 🎖️ LeetCode | 170+ questions solved |
 | 📊 CodeChef | 3 star highest |
 | ✅ AtCoder | Continuously improving |
 
